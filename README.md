@@ -5,4 +5,4 @@
   The dataset is now avaiable from [Download](https://drive.google.com/file/d/1iY5VzAx9aeZMlnTJc81Gs2JJQBRSuMEo/view?usp=sharing)
   
   If you used this dataset, please cite the following paper:
-  Wei-Xun Chen, Min Liu, Qi Zhan, Erik Meijering, Miroslav Radojević, Yao-Nan Wang, “Spherical-patches extraction for deep-learning based critical points detection in 3d neuron microscopy images”, IEEE Transactions on Medical Imaging, vol. 40, no. 2, pp. 527-583, 2021.
+  W. Chen, M. Liu, et al, “Spherical-patches extraction for deep-learning based critical points detection in 3d neuron microscopy images”, IEEE Transactions on Medical Imaging, vol. 40, no. 2, pp. 527-583, 2021.
