@@ -6,3 +6,11 @@
   
   If you used this dataset, please cite the following paper:
   W. Chen, M. Liu, et al, “Spherical-patches extraction for deep-learning based critical points detection in 3d neuron microscopy images”, IEEE Transactions on Medical Imaging, vol. 40, no. 2, pp. 527-583, 2021.
+
+
+# WMBSub
+
+  The WMBSub dataset is an extension of the WMBS dataset. This dataset and annotations can be obtained from [Download2](https://www.jianguoyun.com/p/DYJPVfEQmIO9CBiXkOYD)
+  
+  If you used this dataset, please cite the following paper:
+  Y. Jiang, W. Chen, et al, “DeepRayburst for Automatic Shape Analysis of Tree-Like Structures in Biomedical Images”, IEEE Journal of Biomedical and Health Informatics.
